@@ -1,4 +1,4 @@
-# IFRS 9 Point in Time PIT PD Modelling Macroeconomic Stress Testing Model Python-
+
 # IFRS 9 Point-in-Time (PIT) PD Modelling & Macroeconomic Stress Testing (Python)
 
 ## Project Overview
